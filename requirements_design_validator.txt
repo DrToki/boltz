@@ -1,0 +1,6 @@
+# Requirements for Boltz Design Validator
+# Additional dependencies beyond Boltz base requirements
+
+PyYAML>=6.0
+biopython>=1.79
+numpy>=1.21.0
